@@ -3,7 +3,7 @@ const btn = document.getElementById('send');
 btn.onclick = function(e) {
     e.preventDefault();
 
-    fetch('http://localhost:8000/', {
+    fetch('http://142.93.124.87:8000/', {
         method: 'POST',
         headers: {
             'Accept': 'application/json',
