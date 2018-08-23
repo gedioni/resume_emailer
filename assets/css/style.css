@@ -7,9 +7,9 @@ body {
 
 .container{
     width: 500px;
-    height: 400px;
+    height: 420px;
     text-align: center;
-    background-color: rgba(52, 73, 94, 0.5);
+    background-color: rgb(220,190,161,0.3);
     border-radius: 4px;
     margin: 0 auto;
     margin-top: 150px;
